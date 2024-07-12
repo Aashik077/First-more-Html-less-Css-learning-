@@ -1,0 +1,86 @@
+body {
+    font-size: 15pt;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+div{
+  color:black;
+  background-color: cyan;
+  text-align: center;
+  }
+
+span{
+background-color:#f79cd3;
+
+  
+}
+
+
+
+h1{
+
+color: red;
+  background-color: cyan;
+
+  
+}
+
+
+h2{
+
+color: green;
+  background-color: yellow;
+
+
+}
+
+h3{
+
+  color: #0c0c12;
+  background-color: #9a87ed;
+
+  
+}
+
+
+h4,h5,h6 {
+
+color: black;
+  background-color: #ccca47;
+
+  
+}
+
+
+#reg {b
+
+  color: black;
+  background-color: #4c6fe0;
+
+  
+}
+
+#class {
+   color: black;
+  background-color: #5f9ecf;
+
+  }
+
+#sub {
+ 
+  color: black;
+  background-color: #cfd44e;
+}
+
+#con{
+
+   color: black;
+  background-color: #db86d0;
+  
+}
+
